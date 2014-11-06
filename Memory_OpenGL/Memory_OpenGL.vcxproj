@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{E27E8754-1454-43BE-A632-A423E429DA31}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Memory_2_OpenGL</RootNamespace>
+    <RootNamespace>Memory_OpenGL</RootNamespace>
     <ProjectName>Memory_OpenGL</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
